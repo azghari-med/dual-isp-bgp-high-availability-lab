@@ -1,0 +1,7 @@
+# VPCS terminal in PNetLab/EVE-NG
+ip 203.0.113.10/24 203.0.113.1
+save
+# Test commands:
+ping 203.0.113.1
+ping 192.0.2.1
+trace 192.0.2.1
